@@ -1,0 +1,20 @@
+{
+  "name": "crypto-bip39",
+  "version": "1.0.0",
+  "description": "crypto-bip39",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewismoten/crypto-bip39.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewismoten/crypto-bip39/issues"
+  },
+  "homepage": "https://github.com/lewismoten/crypto-bip39#readme"
+}
