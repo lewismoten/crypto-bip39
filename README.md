@@ -8,9 +8,15 @@ Proof of concept. Code is intentionally messy.
 
 # Instructions
 
-Just run `npm start`, or specifically `node index.js`. It will generate a private key from the crypto library using random bytes. It then converts that to a BIP39 mnemonic code and shows the work performed along with associated statistics on the console.
+Just run `npm start`. It will generate a private key from the crypto library and display its BIP39 mnemonic code on the console.
 
-# Example Output
+## Output
+`mother answer list soon coconut song crucial interest eye oyster message neck pumpkin menu home release sun glow notice parent pink horse such want`
+
+## Detailed Output
+
+To see generated private keys and detailed information, run details.
+`npm run details`
 
 ```
 -[ Private Key ]----------------------------------------------------------------
